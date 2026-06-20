@@ -1,0 +1,6 @@
+# Robots.txt for Seu Nome Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://seuperfil.dev/sitemap.xml
